@@ -169,7 +169,7 @@ The application will open in your browser.
 ```
 sentiment-analysis
 │
-├── sentiment_model.h5
+├── sentiment_model.keras
 ├── tokenizer.pkl
 ├── app.py
 ├── sentiment_analysis.py
