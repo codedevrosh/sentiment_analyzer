@@ -19,7 +19,7 @@ st.write("Analyze product reviews and detect whether the sentiment is **Positive
 # Load model with caching (faster performance)
 @st.cache_resource
 def load_model():
-    return tf.keras.models.load_model("sentiment_model.keras")
+    return tf.keras.models.load_model("sentiment_model.h5")
 
 model = load_model()
 
