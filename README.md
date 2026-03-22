@@ -4,6 +4,11 @@ An end-to-end Natural Language Processing (NLP) project that analyzes product re
 
 This project covers the full machine learning workflow including **data preprocessing, model training, evaluation, and deployment using Streamlit** to build an interactive web application.
 
+ **Live Demo:** https://huggingface.co/spaces/codedevrosh/sentiment_analysis
+
+ ## Application Preview
+
+![Preview](preview.png)
 ---
 
 # Project Overview
